@@ -1,0 +1,16 @@
+.*
+/*
+
+
+!src
+!cmake
+!scripts
+!changelog
+!CMakeLists.txt
+
+!README.md
+
+!.clang-*
+!.gitignore
+
+
